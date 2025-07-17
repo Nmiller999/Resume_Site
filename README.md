@@ -1,1 +1,1 @@
-Initial Readme
+This is my most current resume. It is only html and does not have any styling. This is my first web design project.
